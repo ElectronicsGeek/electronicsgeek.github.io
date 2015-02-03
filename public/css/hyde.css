@@ -99,6 +99,13 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/* Sidebar image (i.e your avatar) */
+.sidebar-profile-pic img {
+  height: 3rem;
+  width: 3rem;
+  border-radius : 30px;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
