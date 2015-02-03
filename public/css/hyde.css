@@ -255,3 +255,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* ElectronicsGeek theme */
+.theme-electronicsgeek .sidebar {
+  background-color: #401533;
+}
+.theme-electronicsgeek .content a,
+.theme-electronicsgeek .related-posts li a:hover {
+  color: #401533;
+}
+}
