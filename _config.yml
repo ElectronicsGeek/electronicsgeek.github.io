@@ -15,6 +15,7 @@ baseurl:          /
 
 author:
   name:           'Gregory Parker'
+  profile-pic:    https://avatars2.githubusercontent.com/u/9054912?
   url:            https://twitter.com/EGeek_Online
 
 paginate:         5
