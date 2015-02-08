@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: New Beginnings
 ---
 
 I'm back in the blogging game!
