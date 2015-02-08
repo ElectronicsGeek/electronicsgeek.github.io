@@ -2,8 +2,6 @@
 published: true
 ---
 
-## New Beginnings
-
 I'm back in the blogging game!
 
 Following a short stay on Blogger, due to its limitations, and an even shorter stay on Tumblr, because I just didn't 'get it,' I've now decided to start blogging again.
