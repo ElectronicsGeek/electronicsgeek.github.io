@@ -106,16 +106,6 @@ a.sidebar-nav-item:focus {
   border-radius : 30px;
 }
 
-/* Sidebar Social Media SVG icons */
-.sidebar-social-icon {
-  height: 0.1rem;
-  width: 0.1rem;
-  
-  padding-top: 0.1rem;
-  padding-left: 0.2rem;
-  padding-right: 0.2rem;
-}
-
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
