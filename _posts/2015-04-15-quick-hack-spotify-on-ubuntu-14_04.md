@@ -3,6 +3,8 @@ layout: post
 title: Quick Hack&#58; Spotify on Ubuntu 14.04
 ---
 
+![Spotify Hack in Action](/public/images/spotify.png)
+
 **NOTE:** Whilst this article specifically targets Ubuntu, I reckon you would probably have success on other distros, too. Keep me posted in the comments.
 
 I recently installed Ubuntu on my laptop and I'm very pleased with it, so pleased, in fact, I haven't booted into windows for a good few weeks. I did however run into one small problem when setting up - Spotify was not installed.
