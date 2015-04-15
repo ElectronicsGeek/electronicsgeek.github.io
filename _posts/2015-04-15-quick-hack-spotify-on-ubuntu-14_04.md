@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick Hack: Spotify on Ubuntu 14.04
+title: Quick Hack: Spotify On Ubuntu 14.04
 ---
 
 **NOTE:** Whilst this article specifically targets Ubuntu, I reckon you would probably have success on other distros, too. Keep me posted in the comments.
