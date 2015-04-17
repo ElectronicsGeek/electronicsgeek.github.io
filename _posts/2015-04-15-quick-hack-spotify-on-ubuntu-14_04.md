@@ -19,7 +19,7 @@ The Spotify web client was the way forward! To access the web client, obviously 
 
 If you close all instances of Chrome and type this into your terminal, you should notice that a Chrome window opens, albeit with no tabs and controls. This is perfect, because it "feels" more like a standalone application.
 
-   google-chrome --app=https://play.spotify.com 
+      google-chrome --app=https://play.spotify.com 
 
 Easy :)
 
