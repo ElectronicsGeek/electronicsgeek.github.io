@@ -103,6 +103,8 @@ a.sidebar-nav-item:focus {
 .sidebar-profile-pic img {
   height: 3rem;
   width: 3rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
   border-radius : 30px;
 }
 
