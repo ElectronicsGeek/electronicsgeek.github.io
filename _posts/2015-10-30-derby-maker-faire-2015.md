@@ -17,7 +17,7 @@ Ben was running a sort of 3D printing workshop using his recently constructed Ul
 
 Finally, Will brought his fantastic work-in-progress, DIY pick and place machine with him. At the time of the faire, it only moved around its bed. Nonetheless, it was incredibly cool! Myself and Will hacked together a little script during the faire which moved the head of the machine to random coordinates on the bed. We then attached a pen and watched it create a drawing. Essentially, we made a plotter and the results were pretty damn awesome. Sadly I have no photos of this, so you'll have to take my word for it!
 
-IMAGES
+![](/public/images/pandp.jpg)
 
 Outside of our stand, there were some really amazing projects on show. In fact, it would've been great if I'd had some more time to look at them all properly! One really cool project was [Daniel Bailey's](https://twitter.com/danieljabailey) C88 computer.
 
